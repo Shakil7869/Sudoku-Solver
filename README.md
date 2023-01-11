@@ -1,4 +1,5 @@
 # Sudoku-Solver
+In this project backtracking Algorithm is used
 
 ![sudoku backtrack](https://user-images.githubusercontent.com/58104565/211782862-91b58f70-83e2-4548-8688-29d873628456.png)
 
